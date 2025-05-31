@@ -21,3 +21,5 @@ SQL caso seja necessário extrair dados de bases estruturadas
 Fique à vontade para contribuir com melhorias! Caso tenha sugestões ou queira discutir Business Intelligence.
 
 ## Contato: 📩 E-mail: [luciara.abreu@gmail.com] 🔗 LinkedIn: [[Seu perfil](https://www.linkedin.com/in/luciara-abreu/)]
+
+
